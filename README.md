@@ -81,8 +81,4 @@ Level 2
 
 ## Como Rodar
 
-O zip possui um arquivo main.exe na pasta /bin/Debug, bastando abrir este arquivo para rodar o jogo. 
-
-![image](https://github.com/user-attachments/assets/95b25c7a-d7ce-4b8f-9e29-63b0e8daa296)
-
-Se quiser compilar o jogo em seu pc, é necessário copiar os arquivos presentes neste repositório para uma cópia do Laboratório 5 (substituindo os arquivos) e então compilar o código com alguma IDE.
+Se quiser compilar o jogo em seu pc, leia as instruções presentes no arquivo "COMPILAR.txt".
